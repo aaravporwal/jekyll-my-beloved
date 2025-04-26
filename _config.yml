@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: my-jekyll-theme
+description: "*my-jekyll-theme* is a theme for my personal website!"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
