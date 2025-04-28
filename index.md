@@ -1,7 +1,8 @@
 --- 
  title: Home
+ layout: default
 ---
 
-# my-jekyll-theme
+# jekyll, my beloved!
 
-*my-jekyll-theme* is a theme for my personal website!
+*jekyll, my beloved* is a theme for my personal website!
